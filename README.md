@@ -6,6 +6,4 @@
 
 #### Contents : _State, Map, styling_
 
-#### Tools
-
--
+#### Netlify: https://react-stephen-animal.netlify.app/
