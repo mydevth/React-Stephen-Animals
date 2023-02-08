@@ -6,4 +6,4 @@
 
 #### Contents : _State, Map, styling_
 
-#### Netlify: https://react-stephen-animal.netlify.app/
+#### Result: https://react-stephen-animal.netlify.app/
