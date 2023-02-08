@@ -2,7 +2,7 @@
 
 #### Instructor : **_Stephen Grider_**
 
-#### Description : **_Master React and Redux Toolkit. Includes RTK Query, tons of custom hooks_**
+#### Description : **_State_**
 
 #### Tools
 
