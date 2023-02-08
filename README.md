@@ -4,7 +4,7 @@
 
 #### Section04 : **_State_**
 
-#### Contents : _Event System , Event Handlers , State_
+#### Contents : _State, Map, styling_
 
 #### Tools
 
